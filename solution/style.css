@@ -1,0 +1,12 @@
+.paddo{
+	padding-top: 3vw;
+	padding-bottom: 3vw;
+}
+
+.tabs .tab a:focus{
+	background: none !important;
+}
+
+.tabs .indicator{
+	background-color: #5E35B1 !important;
+}

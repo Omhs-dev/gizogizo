@@ -1,0 +1,28 @@
+.paddo{
+	padding-top: 5vw;
+	padding-bottom: 5vw;
+}
+
+.sec{
+	background: url(image/abs.jpg);
+	border-bottom: 7px solid black;
+	border-top: 7px solid black
+}
+
+.testi, .pdd{
+	padding-top: 2vw;
+	padding-bottom: 2vw;
+}
+
+.btt{
+	margin-top: 30px;
+}
+
+@media screen and (max-width: 700px){
+	.testi img{
+		display: block;
+		margin-left: auto;
+		margin-right: auto;
+		height: 200px;
+	}
+}
